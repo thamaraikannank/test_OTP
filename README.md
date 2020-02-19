@@ -2,6 +2,7 @@
 * MiniOrange - supports both otp through sms and email - Paid (This one have huge big customers all over world)
   https://www.miniorange.com/step-by-step-guide-to-set-up-otp-verification - Paid for production environment
   Above is very easy to implement in java. Just we need to create a request body and call their rest end points
+  https://www.miniorange.com/two-factor-authentication-(2fa)
 * Twillio & Twillio sendgrid - supports both otp through sms and email - Paid for production environment
   https://www.baeldung.com/java-sms-twilio
 * Amazon AWS - supports both otp through sms and email - Paid
